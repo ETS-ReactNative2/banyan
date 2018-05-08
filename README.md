@@ -1,16 +1,3 @@
-# The ultimate React Native starter using Firebase, Mobx, Code-Push and OneSignal
-![Preview](./graphics/screenshots.gif)
-
-## Download the app on your phone directly
-[![iOS app][2]][1] [![Android app][4]][3]
-
-  [1]: https://itunes.apple.com/us/app/jsapp-my-app/id1165501349?mt=8
-  [2]: ./graphics/app-store-badge.png
-  [3]: https://play.google.com/store/apps/details?id=me.jsapp.myapp
-  [4]: ./graphics/google-play-badge.png  
-
-#### Build your own Instagram + WhatsApp + chat marketplace mobile app clone with push notifications and code deployment integrated
-
 ## Built with
  - [React Native](https://facebook.github.io/react-native/) : One language, JavaScript, one source code.
  - [MobX](https://mobxjs.github.io/mobx/) : Simple, scalable state management (easier than Redux)
@@ -27,7 +14,7 @@ To create your own copy of this application, here are the prerequisites:
  - [Android SDK](https://developer.android.com/studio/index.html) installed to run the app on android devices.
  - [Xcode](https://developer.apple.com/xcode/) installed to test the app on iOS devices or simulator.
 
-### Build your own copy
+### Build:
 Clone the repository:
 
 ```
@@ -259,36 +246,9 @@ Edit the Google Analytics Tracker variable:
 atom src/store/AppStore.js
 ```
 
-
-This app is only a starter. Now it's time for some customizations and improvements.
-
-
 ##License
-[MIT License](https://github.com/jsappme/react-native-firestack-starter/blob/master/LICENSE). Do whatever you want to do.
+[MIT License]. Do whatever you want to do.
 
+We really appreciate any suggestions, feedback, PRs and issues.
 
-## Credits
-All the credits goes to all library creators and contributors to the open source repositories and libraries that I am using. I'm very grateful to all of them. Here are some of them:
-
- - [React Native CodePush](https://github.com/Microsoft/react-native-code-push)
- - [React Native Gifted Chat](https://github.com/FaridSafi/react-native-gifted-chat)
- - [React Native OneSignal](https://github.com/geektimecoil/react-native-onesignal)
- - [React Native Fetch Blob](https://github.com/wkh237/react-native-fetch-blob)
- - [React Native Keyboard Aware Scroll View](https://github.com/APSL/react-native-keyboard-aware-scroll-view)
- - [React Native Image Picker](https://github.com/marcshilling/react-native-image-picker)
- - [Mister Poster](https://github.com/shoumma/Mister-Poster)
- - [React Native](https://facebook.github.io/react-native/)
- - [React Native Animatable](https://github.com/oblador/react-native-animatable)
- - [React Native Scrollable Tab View](https://github.com/skv-headless/react-native-scrollable-tab-view)
- - [React Native Vector Icons](https://github.com/oblador/react-native-vector-icons)
- - [MobX](https://github.com/mobxjs/mobx)
- - [MobX React](https://github.com/mobxjs/mobx-react)
- - [React Native MobX](https://github.com/aksonov/react-native-mobx)
- - [Firebase](https://firebase.google.com/)
- - [Moment JS](http://momentjs.com/)
- - [Lodash](https://lodash.com/)
-
-I really appreciate any suggestions, feedback, PRs and issues.
-
-Made with ♥ by [JSapp.me](http://jsapp.me)
-# banyan
+Made with ♥ by [Van Phan] vanthuyphan@gmail.com
